@@ -1,0 +1,1 @@
+etri#doc_11575.txt 3 하다 ----- 1:1-ARG1(THM) 2:1-ARGM-TMP(LOC) 3:0-rel

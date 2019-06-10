@@ -1,0 +1,6 @@
+etri#doc_6299.txt 4 말하다 ----- 3:1-ARGM-TMP() 4:0-rel
+etri#doc_6299.txt 7 숙이다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_6299.txt 9 되다 ----- 2:2-ARG1(THM) 4:2-ARGM-DIS() 8:4-ARG2(FNS) 9:0-rel
+etri#doc_6299.txt 13 띄다 ----- 12:2-ARG2(LOC) 13:0-rel
+etri#doc_6299.txt 15 하다 ----- 14:4-ARG1(THM) 15:0-rel
+etri#doc_6299.txt 21 묻다 ----- 9:5-ARGM-DIS() 10:1-ARGM-DIS() 15:5-ARGM-CND() 20:2-ARG1(CNT) 21:0-rel

@@ -1,0 +1,5 @@
+etri#doc_3541.txt 5 들먹이다 ----- 3:2-ARGM-CAU(CNT) 4:1-ARG1(THM) 5:0-rel
+etri#doc_3541.txt 9 앓다 ----- 5:2-ARGM-DIS() 6:1-ARGM-CAU(EFF) 7:1-ARG0(EXP) 8:1-ARG1(THM) 9:0-rel
+etri#doc_3541.txt 11 해결하다 ----- 11:0-rel
+etri#doc_3541.txt 12 극복하다 ----- 10:1-ARG0(AGT) 11:1-ARGM-DIS() 12:0-rel
+etri#doc_3541.txt 15 쌓이다 ----- 1:1-ARGM-DIS() 9:2-ARGM-DIS() 13:3-ARG1(THM) 14:1-ARGM-TMP() 15:0-rel

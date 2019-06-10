@@ -1,0 +1,5 @@
+etri#doc_2194.txt 3 맞닥뜨리다 ----- 2:2-ARG2(LOC) 3:0-rel
+etri#doc_2194.txt 6 죽다 ----- 6:0-rel
+etri#doc_2194.txt 10 버티다 ----- 10:0-rel
+etri#doc_2194.txt 11 서다 ----- 10:1-ARGM-DIS() 11:0-rel
+etri#doc_2194.txt 18 치다 ----- 9:2-ARGM-DIS() 13:2-ARG0(AGT) 15:2-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

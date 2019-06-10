@@ -1,0 +1,5 @@
+etri#doc_2749.txt 6 나다 ----- 2:2-ARGM-LOC(LOC) 5:3-ARG1(THM) 6:0-rel
+etri#doc_2749.txt 8 흐르다 ----- 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_2749.txt 11 흐르다 ----- 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_2749.txt 17 낫다 ----- 15:2-ARG1(THM) 16:1-ARGM-EXT(CRT) 17:0-rel
+etri#doc_2749.txt 20 낫다 ----- 13:4-ARGM-DIS() 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:1-ARGM-EXT(CRT) 20:0-rel

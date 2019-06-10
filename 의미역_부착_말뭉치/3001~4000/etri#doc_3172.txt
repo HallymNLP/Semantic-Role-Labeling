@@ -1,0 +1,2 @@
+etri#doc_3172.txt 4 멈추다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_3172.txt 13 하다 ----- 11:2-ARG1(THM) 12:1-ARG2(FNS) 13:0-rel

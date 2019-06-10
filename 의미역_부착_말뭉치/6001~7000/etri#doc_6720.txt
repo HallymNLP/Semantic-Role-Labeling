@@ -1,0 +1,5 @@
+etri#doc_6720.txt 4 보다 ----- 1:1-ARGM-TMP() 3:2-ARG1(THM) 4:0-rel
+etri#doc_6720.txt 9 듣다 ----- 4:3-ARGM-DIS() 6:2-ARGM-TMP(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_6720.txt 11 기대하다 ----- 10:4-ARG1(THM) 11:0-rel
+etri#doc_6720.txt 15 듣다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_6720.txt 18 짓다 ----- 12:6-ARG0(AGT) 15:3-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

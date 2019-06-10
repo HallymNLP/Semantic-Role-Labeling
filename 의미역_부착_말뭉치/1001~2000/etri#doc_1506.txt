@@ -1,0 +1,4 @@
+etri#doc_1506.txt 4 죽다 ----- 3:1-ARGM-TMP() 4:0-rel
+etri#doc_1506.txt 5 묻다 ----- 4:2-ARGM-CND() 5:0-rel
+etri#doc_1506.txt 7 생기다 ----- 2:1-ARGM-TMP() 6:4-ARG1(THM) 7:0-rel
+etri#doc_1506.txt 17 끓이다 ----- 13:1-ARGM-DIS() 14:1-ARGM-LOC(LOC) 16:2-ARG1(THM) 17:0-rel

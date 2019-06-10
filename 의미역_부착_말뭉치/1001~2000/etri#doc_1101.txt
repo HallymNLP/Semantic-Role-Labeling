@@ -1,0 +1,1 @@
+etri#doc_1101.txt 16 지다 ----- 15:1-ARG1(THM) 16:0-rel

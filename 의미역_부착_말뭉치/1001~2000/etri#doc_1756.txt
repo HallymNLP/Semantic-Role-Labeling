@@ -1,0 +1,1 @@
+etri#doc_1756.txt 10 가리다 ----- 9:2-ARG1(THM) 10:0-rel

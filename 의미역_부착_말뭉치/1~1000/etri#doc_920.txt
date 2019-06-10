@@ -1,0 +1,1 @@
+etri#doc_920.txt 12 고르다 ----- 11:2-ARG1(THM) 12:0-rel

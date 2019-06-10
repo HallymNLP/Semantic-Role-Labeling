@@ -1,0 +1,4 @@
+etri#doc_11863.txt 5 버리다 ----- 3:3-ARG1(THM) 4:1-ARGM-EXT(EFF) 5:0-rel
+etri#doc_11863.txt 8 깨닫다 ----- 8:0-rel
+etri#doc_11863.txt 10 귀의하다 ----- 9:2-ARG2(GOL) 10:0-rel
+etri#doc_11863.txt 19 귀의하다 ----- 5:2-ARGM-DIS() 7:2-ARGM-PRP(PUR) 16:4-ARG2(GOL) 18:2-ARGM-DIS() 19:0-rel

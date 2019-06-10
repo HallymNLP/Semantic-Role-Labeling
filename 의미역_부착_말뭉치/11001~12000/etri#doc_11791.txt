@@ -1,0 +1,7 @@
+etri#doc_11791.txt 3 망하다 ----- 2:1-ARGM-MNR() 3:0-rel
+etri#doc_11791.txt 4 흥분하다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_11791.txt 9 놀다 ----- 7:1-ARGM-DIS() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_11791.txt 10 망하다 ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_11791.txt 11 생각하다 ----- 6:5-ARGM-DIS() 10:3-ARGM-DIS() 11:0-rel
+etri#doc_11791.txt 19 밟다 ----- 14:2-ARGM-DIS() 16:2-ARGM-MNR(INS) 18:2-ARG1(THM) 19:0-rel
+etri#doc_11791.txt 20 모르다 ----- 11:4-ARGM-DIS() 12:1-ARGM-DIS() 19:3-ARG1() 20:0-rel

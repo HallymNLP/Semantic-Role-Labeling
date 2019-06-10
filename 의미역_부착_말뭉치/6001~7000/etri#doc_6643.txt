@@ -1,0 +1,5 @@
+etri#doc_6643.txt 7 외치다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_6643.txt 12 흘리다 ----- 7:3-ARGM-DIS() 8:1-ARG1(AGT) 9:1-ARG1(COM) 11:2-ARG2(THM) 12:0-rel
+etri#doc_6643.txt 14 멎다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_6643.txt 15 기다리다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_6643.txt 17 잇다 ----- 12:3-ARGM-DIS() 15:3-ARGM-DIS() 16:1-ARG2(THM) 17:0-rel

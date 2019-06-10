@@ -1,0 +1,4 @@
+etri#doc_6290.txt 2 뜨다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_6290.txt 7 밝다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_6290.txt 13 지다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_6290.txt 20 부르다 ----- 11:7-ARGM-EXT(CRT) 18:4-ARG1(THM) 19:1-ARG1(CNT) 20:0-rel

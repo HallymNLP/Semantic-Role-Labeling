@@ -1,0 +1,4 @@
+etri#doc_5325.txt 6 나가다 ----- 2:2-ARGM-TMP(LOC) 4:2-ARGM-MNR(COM) 5:1-ARG3(GOL) 6:0-rel
+etri#doc_5325.txt 9 오다 ----- 7:1-ARGM-TMP() 8:1-ARG1(Npr) 9:0-rel
+etri#doc_5325.txt 13 꺼내다 ----- 11:2-ARG0(AGT) 12:1-ARG1(THM) 13:0-rel
+etri#doc_5325.txt 17 벗다 ----- 6:2-ARGM-DIS() 9:2-ARGM-DIS() 13:2-ARGM-DIS() 15:2-ARG0(AGT) 16:1-ARG1(THM) 17:0-rel

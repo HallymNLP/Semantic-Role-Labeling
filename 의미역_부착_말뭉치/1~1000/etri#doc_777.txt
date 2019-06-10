@@ -1,0 +1,5 @@
+etri#doc_777.txt 4 죽다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_777.txt 9 닮다 ----- 8:1-ARG2() 9:0-rel
+etri#doc_777.txt 12 닮다 ----- 11:1-ARG2() 12:0-rel
+etri#doc_777.txt 15 닮다 ----- 14:1-ARG2() 15:0-rel
+etri#doc_777.txt 17 지니다 ----- 16:3-ARG1(THM) 17:0-rel

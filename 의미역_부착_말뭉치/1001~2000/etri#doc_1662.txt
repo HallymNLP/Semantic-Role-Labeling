@@ -1,0 +1,1 @@
+etri#doc_1662.txt 21 받다 ----- 20:1-ARG1(THM) 21:0-rel

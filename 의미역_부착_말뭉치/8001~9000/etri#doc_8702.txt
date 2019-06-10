@@ -1,0 +1,7 @@
+etri#doc_8702.txt 3 삶다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_8702.txt 5 무치다 ----- 3:2-ARGM-MNR() 4:1-ARG2(INS) 5:0-rel
+etri#doc_8702.txt 6 먹다 ----- 5:2-ARGM-MNR() 6:0-rel
+etri#doc_8702.txt 11 내다 ----- 9:2-ARG1(THM) 10:1-ARG2() 11:0-rel
+etri#doc_8702.txt 13 만들다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_8702.txt 14 먹다 ----- 6:3-ARGM-DIS() 13:2-ARGM-DIS() 14:0-rel
+etri#doc_8702.txt 17 살다 ----- 14:3-ARGM-PRD(INS) 16:2-ARG1(THM) 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1729.txt 6 덮다 ----- 5:3-ARG2(THM) 6:0-rel
+etri#doc_1729.txt 8 떨어지다 ----- 7:1-() 8:0-rel
+etri#doc_1729.txt 11 남다 ----- 8:2-ARGM-DIS() 10:2-ARG1(THM) 11:0-rel
+etri#doc_1729.txt 18 덮이다 ----- 1:1-ARG1(THM) 6:4-ARGM-DIS() 17:6-ARGM-LOC(LOC) 18:0-rel

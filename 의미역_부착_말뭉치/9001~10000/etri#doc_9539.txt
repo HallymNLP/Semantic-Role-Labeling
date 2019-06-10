@@ -1,0 +1,4 @@
+etri#doc_9539.txt 2 꿇다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_9539.txt 5 꿇다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_9539.txt 7 꿇다 ----- 5:2-ARGM-CND() 6:1-ARG1(THM) 7:0-rel
+etri#doc_9539.txt 12 꿇다 ----- 3:3-ARG0(AGT) 9:2-ARGM-PRP(PUR) 10:1-ARGM-TMP() 11:1-ARG1(THM) 12:0-rel

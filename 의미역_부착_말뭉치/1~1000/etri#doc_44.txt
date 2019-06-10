@@ -1,0 +1,5 @@
+etri#doc_44.txt 4 앓다 ----- 3:2-ARG1(LOC) 4:0-rel
+etri#doc_44.txt 7 앓다 ----- 4:3-ARGM-DIS() 6:2-ARG1(LOC) 7:0-rel
+etri#doc_44.txt 10 앓다 ----- 7:3-ARGM-DIS() 9:2-ARG1(LOC) 10:0-rel
+etri#doc_44.txt 13 앓다 ----- 10:3-() 12:2-ARG1(LOC) 13:0-rel
+etri#doc_44.txt 16 앓다 ----- 1:1-() 13:3-ARGM-DIS() 15:2-ARG1(LOC) 16:0-rel

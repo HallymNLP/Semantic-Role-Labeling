@@ -1,0 +1,1 @@
+etri#doc_1009.txt 2 쪼들리다 ----- 1:1-ARGM-CAU(EFF) 2:0-rel

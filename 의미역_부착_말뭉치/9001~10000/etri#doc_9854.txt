@@ -1,0 +1,4 @@
+etri#doc_9854.txt 5 먹이다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_9854.txt 9 가리다 ----- 3:1-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_9854.txt 11 줍다 ----- 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_9854.txt 15 쏘다 ----- 2:2-ARG0(AGT) 9:3-ARGM-PRP() 12:3-ARGM-INS(INS) 14:2-ARG1(THM) 15:0-rel

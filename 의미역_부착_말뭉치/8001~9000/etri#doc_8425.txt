@@ -1,0 +1,1 @@
+etri#doc_8425.txt 5 이루다 ----- 2:1-ARGM-MNR(INS) 4:2-ARG1(THM) 5:0-rel

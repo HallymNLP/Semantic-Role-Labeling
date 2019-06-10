@@ -1,0 +1,4 @@
+etri#doc_7535.txt 2 가다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_7535.txt 12 띠다 ----- 9:2-ARG0(AGT) 11:2-ARG1(THM) 12:0-rel
+etri#doc_7535.txt 18 흔들다 ----- 17:2-ARG1(THM) 18:0-rel
+etri#doc_7535.txt 20 느끼다 ----- 6:2-ARGM-DIS() 7:1-ARGM-DIS() 12:3-ARGM-DIS() 19:4-ARG1(THM) 20:0-rel

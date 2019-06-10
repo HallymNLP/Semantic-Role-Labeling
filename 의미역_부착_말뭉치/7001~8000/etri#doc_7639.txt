@@ -1,0 +1,6 @@
+etri#doc_7639.txt 3 꿈꾸다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_7639.txt 5 눕다 ----- 3:3-ARGM-MNR() 4:1-ARG1(LOC) 5:0-rel
+etri#doc_7639.txt 11 가다 ----- 10:1-ARG3(GOL) 11:0-rel
+etri#doc_7639.txt 13 당하다 ----- 11:2-ARGM-DIS() 12:1-ARG2(THM) 13:0-rel
+etri#doc_7639.txt 14 몸져눕다 ----- 13:2-ARGM-MNR() 14:0-rel
+etri#doc_7639.txt 16 기억하다 ----- 8:3-ARGM-DIS() 15:4-ARG0(MAG) 16:0-rel

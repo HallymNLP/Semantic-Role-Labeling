@@ -1,0 +1,2 @@
+etri#doc_7790.txt 22 하다 ----- 21:2-ARG1() 22:0-rel
+etri#doc_7790.txt 27 묶이다 ----- 2:2-ARGM-TMP() 4:2-ARG1(THM) 5:1-ARGM-TMP() 26:3-ARGM-INS(INS) 27:0-rel

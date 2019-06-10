@@ -1,0 +1,4 @@
+etri#doc_2383.txt 5 끼다 ----- 3:2-() 4:1-() 5:0-rel
+etri#doc_2383.txt 7 내뻗다 ----- 5:2-() 6:1-() 7:0-rel
+etri#doc_2383.txt 10 날다 ----- 10:0-rel
+etri#doc_2383.txt 11 걷다 ----- 9:2-ARG1(THM) 10:1-ARGM-DIS() 11:0-rel

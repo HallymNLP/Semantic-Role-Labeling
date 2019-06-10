@@ -1,0 +1,4 @@
+etri#doc_2818.txt 6 둘러싸다 ----- 4:2-ARGM-TMP(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_2818.txt 9 팽배하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP() 6:2-ARGM-DIS() 7:1-ARG2(LOC) 8:1-ARG1(THM) 9:0-rel
+etri#doc_2818.txt 12 취하다 ----- 10:1-ARGM-MNR(INS) 11:1-ARG1(THM) 12:0-rel
+etri#doc_2818.txt 17 꼬이다 ----- 9:2-ARGM-DIS() 16:6-ARG1(THM) 17:0-rel

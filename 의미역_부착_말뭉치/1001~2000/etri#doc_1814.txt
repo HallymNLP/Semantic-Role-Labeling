@@ -1,0 +1,1 @@
+etri#doc_1814.txt 12 떠나다 ----- 11:1-ARG1(THM) 12:0-rel

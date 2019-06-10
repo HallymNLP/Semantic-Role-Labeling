@@ -1,0 +1,4 @@
+etri#doc_1454.txt 5 들어오다 ----- 3:1-ARG0(THM) 4:1-ARGM-EXT() 5:0-rel
+etri#doc_1454.txt 9 둔갑하다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:1-ARGM-MNR() 8:1-ARG2(FNS) 9:0-rel
+etri#doc_1454.txt 16 사다 ----- 16:0-rel
+etri#doc_1454.txt 17 먹다 ----- 14:3-ARG1(THM) 15:1-ARGM-MNR() 16:1-ARGM-DIS() 17:0-rel

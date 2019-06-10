@@ -1,0 +1,5 @@
+etri#doc_8685.txt 3 몰두하다 ----- 2:1-ARG2(GOL) 3:0-rel
+etri#doc_8685.txt 9 탓하다 ----- 5:4-ARGM-DIS() 6:1-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_8685.txt 10 탓하다 ----- 10:0-rel
+etri#doc_8685.txt 13 몰두하다 ----- 11:2-ARG0(MAG) 12:1-ARG2(GOL) 13:0-rel
+etri#doc_8685.txt 15 되다 ----- 9:3-ARGM-CND() 14:3-ARG2(FNS) 15:0-rel

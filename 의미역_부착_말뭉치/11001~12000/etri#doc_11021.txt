@@ -1,0 +1,1 @@
+etri#doc_11021.txt 14 멸종되다 ----- 13:1-ARGM-EXT() 14:0-rel

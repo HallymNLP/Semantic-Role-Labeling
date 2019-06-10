@@ -1,0 +1,1 @@
+etri#doc_2022.txt 8 벗어나다 ----- 7:2-ARGM-LOC(LOC) 8:0-rel

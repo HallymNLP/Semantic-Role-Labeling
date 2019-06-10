@@ -1,0 +1,2 @@
+etri#doc_9537.txt 9 교육하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_9537.txt 11 극복하다 ----- 6:2-ARG0(AGT) 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel

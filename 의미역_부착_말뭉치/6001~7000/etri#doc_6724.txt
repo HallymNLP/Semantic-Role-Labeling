@@ -1,0 +1,4 @@
+etri#doc_6724.txt 3 쥐다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6724.txt 7 보다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_6724.txt 12 보다 ----- 8:1-ARG0(AGT) 10:2-ARGM-MNR(INS) 11:1-ARG1(THM) 12:0-rel
+etri#doc_6724.txt 13 가늠하다 ----- 7:3-ARGM-DIS() 12:2-ARG1() 13:0-rel

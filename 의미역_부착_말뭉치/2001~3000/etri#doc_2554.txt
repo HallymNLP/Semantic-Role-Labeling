@@ -1,0 +1,2 @@
+etri#doc_2554.txt 10 팽배하다 ----- 9:1-ARGM-TMP() 10:0-rel
+etri#doc_2554.txt 14 비롯되다 ----- 4:3-ARG0() 13:3-ARG2(EFF) 14:0-rel

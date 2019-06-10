@@ -1,0 +1,6 @@
+etri#doc_2974.txt 5 잘하다 ----- 3:2-ARGM-DIS() 4:1-ARG0(THM) 5:0-rel
+etri#doc_2974.txt 7 시샘하다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_2974.txt 10 굴다 ----- 1:1-ARG0(AGT) 7:4-ARGM-CAU() 8:1-ARGM-TMP() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_2974.txt 12 돕다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_2974.txt 14 짓다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_2974.txt 22 싫어하다 ----- 10:2-ARGM-DIS() 18:3-ARG0(EXP) 19:1-ARGM-TMP() 21:2-ARG1(THM) 22:0-rel

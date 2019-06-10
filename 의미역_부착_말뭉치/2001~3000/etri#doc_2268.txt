@@ -1,0 +1,1 @@
+etri#doc_2268.txt 5 따르다 ----- 4:3-ARGM-LOC(LOC) 5:0-rel

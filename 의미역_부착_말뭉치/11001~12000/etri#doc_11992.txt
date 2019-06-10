@@ -1,0 +1,5 @@
+etri#doc_11992.txt 2 헤치다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_11992.txt 6 되다 ----- 4:2-ARG1(THM) 5:1-ARG2(FNS) 6:0-rel
+etri#doc_11992.txt 12 겪다 ----- 11:1-ARG0(EXP) 12:0-rel
+etri#doc_11992.txt 14 묻다 ----- 10:2-ARGM-LOC(LOC) 13:3-ARG1(THM) 14:0-rel
+etri#doc_11992.txt 15 느끼다 ----- 7:3-ARGM-ADV(EFF) 14:4-ARG1() 15:0-rel

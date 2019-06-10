@@ -1,0 +1,6 @@
+etri#doc_4395.txt 2 깨다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_4395.txt 4 뿌리다 ----- 2:2-ARGM-TMP() 3:1-ARG1(THM) 4:0-rel
+etri#doc_4395.txt 6 마르다 ----- 4:2-ARGM-CND() 5:1-ARG1(THM) 6:0-rel
+etri#doc_4395.txt 9 듣다 ----- 9:0-rel
+etri#doc_4395.txt 10 알다 ----- 7:3-ARG1(THM) 8:1-ARGM-TMP() 9:1-ARGM-DIS() 10:0-rel
+etri#doc_4395.txt 15 쓰다 ----- 13:2-ARG1(THM) 14:1-ARG1() 15:0-rel

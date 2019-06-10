@@ -1,0 +1,1 @@
+etri#doc_5626.txt 9 모르다 ----- 8:1-ARGM-MNR(INS) 9:0-rel

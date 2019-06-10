@@ -1,0 +1,1 @@
+etri#doc_105.txt 9 파악하다 ----- 8:3-ARG1(THM) 9:0-rel

@@ -1,0 +1,5 @@
+etri#doc_1873.txt 5 탐구하다 ----- 2:1-ARGM-TMP() 4:2-ARG1(THM) 5:0-rel
+etri#doc_1873.txt 7 치우치다 ----- 6:1-ARG2(GOL) 7:0-rel
+etri#doc_1873.txt 14 섭렵하다 ----- 14:0-rel
+etri#doc_1873.txt 15 밝다 ----- 15:0-rel
+etri#doc_1873.txt 16 통하다 ----- 5:3-ARGM-DIS() 7:2-ARGM-DIS() 13:6-ARG1(THM) 14:1-ARGM-DIS() 15:1-ARGM-MNR() 16:0-rel

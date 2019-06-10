@@ -1,0 +1,4 @@
+etri#doc_2324.txt 2 삼키다 ----- 1:1-() 2:0-rel
+etri#doc_2324.txt 5 소화하다 ----- 2:2-ARGM-DIS() 4:2-ARGM-DIS(EFF) 5:0-rel
+etri#doc_2324.txt 7 먹다 ----- 5:3-ARGM-DIS() 6:1-ARGM-ADV(EFF) 7:0-rel
+etri#doc_2324.txt 16 끓이다 ----- 12:2-() 13:1-() 14:1-() 15:1-() 16:0-rel

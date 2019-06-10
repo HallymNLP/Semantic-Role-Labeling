@@ -1,0 +1,2 @@
+etri#doc_8555.txt 4 팔다 ----- 3:2-ARGM-LOC(LOC) 4:0-rel
+etri#doc_8555.txt 10 모르다 ----- 9:2-ARG1() 10:0-rel

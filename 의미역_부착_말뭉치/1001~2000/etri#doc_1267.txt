@@ -1,0 +1,1 @@
+etri#doc_1267.txt 2 하다 ----- 1:1-ARG0(AGT) 2:0-rel

@@ -1,0 +1,5 @@
+etri#doc_11790.txt 3 마치다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11790.txt 7 사라지다 ----- 1:1-ARG1(THM) 3:2-ARGM-DIS() 5:2-ARGM-ADV(COM) 6:1-ARGM-INS(INS) 7:0-rel
+etri#doc_11790.txt 10 끼얹다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_11790.txt 13 씰룩거리다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_11790.txt 16 하다 ----- 15:1-ARG1(THM) 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_4414.txt 4 늘리다 ----- 2:2-ARGM-MNR(INS) 3:1-ARG1(THM) 4:0-rel
+etri#doc_4414.txt 6 덮다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_4414.txt 10 끼다 ----- 9:1-ARG1() 10:0-rel
+etri#doc_4414.txt 14 부각되다 ----- 11:3-ARGM-LOC(LOC) 13:2-ARGM-MNR() 14:0-rel
+etri#doc_4414.txt 16 발견하다 ----- 6:4-ARGM-TMP() 7:1-ARG0(AGT) 15:4-ARG1(THM) 16:0-rel

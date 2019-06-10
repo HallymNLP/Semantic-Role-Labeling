@@ -1,0 +1,1 @@
+etri#doc_11165.txt 8 흔들리다 ----- 7:2-ARG1(THM) 8:0-rel

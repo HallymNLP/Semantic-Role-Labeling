@@ -1,0 +1,4 @@
+etri#doc_848.txt 6 덮다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_848.txt 13 실리다 ----- 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_848.txt 14 썩다 ----- 14:0-rel
+etri#doc_848.txt 19 나다 ----- 18:1-ARG1() 19:0-rel

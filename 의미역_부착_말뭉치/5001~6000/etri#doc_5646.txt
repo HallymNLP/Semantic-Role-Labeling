@@ -1,0 +1,4 @@
+etri#doc_5646.txt 4 실시하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_5646.txt 7 재촉하다 ----- 4:4-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_5646.txt 11 먹다 ----- 9:1-ARG0(AGT) 10:1-ARG1() 11:0-rel
+etri#doc_5646.txt 14 뽑다 ----- 11:2-ARGM-CAU() 12:1-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel

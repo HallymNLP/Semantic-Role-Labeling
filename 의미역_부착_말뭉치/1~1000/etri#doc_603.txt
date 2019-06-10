@@ -1,0 +1,1 @@
+etri#doc_603.txt 4 거치다 ----- 3:2-ARG1(THM) 4:0-rel

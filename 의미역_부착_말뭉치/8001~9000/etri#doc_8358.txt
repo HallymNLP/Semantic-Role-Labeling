@@ -1,0 +1,1 @@
+etri#doc_8358.txt 9 극복하다 ----- 5:2-ARG1(THM) 8:3-ARGM-MNR(INS) 9:0-rel

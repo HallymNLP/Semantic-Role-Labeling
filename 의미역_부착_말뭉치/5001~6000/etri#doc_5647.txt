@@ -1,0 +1,3 @@
+etri#doc_5647.txt 2 맡다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5647.txt 8 쌓다 ----- 7:2-ARGM-INS(INS) 8:0-rel
+etri#doc_5647.txt 11 접목시키다 ----- 9:4-ARG1(THM) 10:1-ARG2(GOL) 11:0-rel

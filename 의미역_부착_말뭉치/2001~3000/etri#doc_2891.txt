@@ -1,0 +1,5 @@
+etri#doc_2891.txt 5 들볶다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_2891.txt 6 탈출하다 ----- 6:0-rel
+etri#doc_2891.txt 8 앙갚음하다 ----- 7:2-ARG2(GOL) 8:0-rel
+etri#doc_2891.txt 10 풀다 ----- 2:1-ARG0(AGT) 5:3-ARGM-DIS() 9:4-ARG1(THM) 10:0-rel
+etri#doc_2891.txt 15 뵈다 ----- 13:1-ARGM-EXT() 14:1-ARGM-MNR() 15:0-rel

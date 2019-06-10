@@ -1,0 +1,4 @@
+etri#doc_9137.txt 2 듣다 ----- 1:1-ARGM-TMP(LOC) 2:0-rel
+etri#doc_9137.txt 7 하다 ----- 5:1-ARG2(COM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_9137.txt 10 잊다 ----- 9:1-ARGM-MNR() 10:0-rel
+etri#doc_9137.txt 12 모르다 ----- 7:2-ARGM-DIS() 8:1-ARG0(EXP) 10:2-ARGM-DIS() 11:1-ARGM-NEG() 12:0-rel

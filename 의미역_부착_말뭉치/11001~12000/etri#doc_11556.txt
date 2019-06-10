@@ -1,0 +1,1 @@
+etri#doc_11556.txt 3 자랑하다 ----- 2:2-ARG1(THM) 3:0-rel

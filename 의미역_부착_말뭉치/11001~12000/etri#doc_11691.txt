@@ -1,0 +1,5 @@
+etri#doc_11691.txt 5 느끼다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_11691.txt 7 걷다 ----- 5:3-ARGM-DIS() 6:1-ARGM-MNR() 7:0-rel
+etri#doc_11691.txt 11 들여다보다 ----- 8:3-ARG1(THM) 10:2-ARGM-MNR(INS) 11:0-rel
+etri#doc_11691.txt 15 늘어지다 ----- 13:2-ARGM-CAU(EFF) 14:1-ARG1(THM) 15:0-rel
+etri#doc_11691.txt 17 걷다 ----- 1:1-ARG0(AGT) 11:3-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel

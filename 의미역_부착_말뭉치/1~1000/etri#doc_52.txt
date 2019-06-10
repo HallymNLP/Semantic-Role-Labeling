@@ -1,0 +1,6 @@
+etri#doc_52.txt 6 받다 ----- 2:2-ARGM-DIS() 4:2-ARGM-REC(COM) 5:1-ARG1() 6:0-rel
+etri#doc_52.txt 8 헐벗다 ----- 8:0-rel
+etri#doc_52.txt 9 굶주리다 ----- 7:1-ARGM-ADV() 8:1-ARGM-DIS() 9:0-rel
+etri#doc_52.txt 10 지내다 ----- 6:2-ARGM-NEG() 9:2-ARGM-MNR() 10:0-rel
+etri#doc_52.txt 12 보다 ----- 11:4-ARG1(THM) 12:0-rel
+etri#doc_52.txt 16 맺히다 ----- 12:5-ARGM-TMP() 14:2-ARGM-LOC(LOC) 15:1-ARG0(THM) 16:0-rel

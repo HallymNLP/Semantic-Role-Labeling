@@ -1,0 +1,3 @@
+etri#doc_3644.txt 3 되다 ----- 2:2-ARG2(FNS) 3:0-rel
+etri#doc_3644.txt 9 몰아넣다 ----- 5:2-ARG1(THM) 8:2-ARG2(GOL) 9:0-rel
+etri#doc_3644.txt 19 묻다 ----- 12:3-ARGM-INS(INS) 18:2-ARG1(THM) 19:0-rel

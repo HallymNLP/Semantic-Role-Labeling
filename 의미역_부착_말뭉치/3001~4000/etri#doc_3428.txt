@@ -1,0 +1,2 @@
+etri#doc_3428.txt 6 폐지되다 ----- 4:3-ARG1(THM) 5:1-ARGM-TMP(LOC) 6:0-rel
+etri#doc_3428.txt 13 승계하다 ----- 1:1-ARGM-CAU(COM) 6:2-ARGM-DIS() 10:3-ARG1(THM) 11:1-ARG0(AGT) 12:1-ARGM-DIS() 13:0-rel

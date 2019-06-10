@@ -1,0 +1,4 @@
+etri#doc_11695.txt 3 깨닫다 ----- 1:1-ARG1(MAG) 2:1-ARG2(THM) 3:0-rel
+etri#doc_11695.txt 7 자라나다 ----- 5:2-ARGM-LOC(LOC) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_11695.txt 11 꿇다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_11695.txt 13 조아리다 ----- 3:2-ARGM-TMP() 8:3-ARGM-LOC(GOL) 9:1-ARGM-MNR() 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel

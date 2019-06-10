@@ -1,0 +1,1 @@
+etri#doc_1651.txt 2 누리다 ----- 1:1-ARG0(THM) 2:0-rel
